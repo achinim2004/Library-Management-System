@@ -96,13 +96,13 @@ Uses a `JOIN` to list books that have not been returned (`ReturnDate IS NULL`) a
 
 SELECT 
 
-&nbsp;   M.FirstName, 
+ M.FirstName, 
 
-&nbsp;   M.LastName, 
+ M.LastName, 
 
-&nbsp;   B.Title, 
+ B.Title, 
 
-&nbsp;   L.DueDate
+ L.DueDate
 
 FROM Loans L
 
