@@ -31,9 +31,6 @@ It covers key LMS functionalities such as book lending, member registration, and
 &nbsp;📁 Project Files and Purpose
 
 
-
-| File Name | Purpose |
-
 | :--- | :--- |
 
 | `schema.sql` | DDL (Data Definition Language):Contains the code to create the four main tables (Authors, Books, Members, Loans). |
